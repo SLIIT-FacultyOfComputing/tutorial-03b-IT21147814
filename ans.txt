@@ -1,6 +1,0 @@
-No          Name	    Marks	
-    1          Ajith      78.4
-    2          Wimal      90.6
-    3         Kanthi      45.9
-    4        Suranji      72.2
-    5      Kushmitha      54.4
